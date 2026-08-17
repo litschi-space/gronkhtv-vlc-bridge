@@ -33,7 +33,8 @@ Features nativ mitbringt.
 Firefox for Android installiert nur signierte Erweiterungen. Der Weg über
 den offiziellen Store:
 
-1. [ ] *(Store-Link hier ergänzen, sobald das Add-on gelistet ist)*
+[Hier die Erweiterung vom addons.mozilla.com-Store installieren](https://addons.mozilla.org/de/firefox/addon/gronkhtv-vlc-bridge/)
+(Prüfung von Mozilla steht aktuell noch aus, nach Bestehen wird das Addon hier verfügbar sein)
 
 ### Manuell / zum Testen
 
