@@ -1,0 +1,11 @@
+# Gepackte Erweiterung, wird nicht versioniert
+*.zip
+*.xpi
+
+# Icon-Build-Skript-Artefakte (falls lokal neu generiert)
+__pycache__/
+
+# Editor/OS
+.DS_Store
+.vscode/
+*.swp

@@ -1,0 +1,37 @@
+#gronkh-companion-panel {
+  position: fixed;
+  bottom: 16px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 999999;
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  background: rgba(20, 20, 20, 0.9);
+  padding: 8px 10px;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.4);
+}
+
+.gronkh-companion-btn {
+  font-family: sans-serif;
+  font-size: 14px;
+  padding: 8px 12px;
+  border: none;
+  border-radius: 6px;
+  background: #ff8c00;
+  color: #111;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.gronkh-companion-btn:active {
+  background: #e07b00;
+}
+
+.gronkh-companion-status {
+  color: #fff;
+  font-family: sans-serif;
+  font-size: 12px;
+  max-width: 140px;
+}
